@@ -17,3 +17,4 @@ Machine Learning (ML) model implementation refers to the process of developing, 
 🔍 Problem Definition and Data Preparation
 The first stage in ML implementation is identifying the problem—classification, regression, clustering, etc.—and collecting relevant data. The data is then cleaned and preprocessed. This includes removing duplicates, handling missing values, encoding categorical data, and transforming features. In text-based models (like spam detection), text preprocessing involves tokenization, normalization, and vectorization.
 
+"OUTPUT"    : <img width="1823" height="739" alt="Image" src="https://github.com/user-attachments/assets/1b7ec913-5564-42ee-9ae3-935a90f08f14" />
